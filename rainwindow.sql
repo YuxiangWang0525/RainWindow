@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : Moedigital Main Database
- Source Server Type    : MySQL
- Source Server Version : 50740
- Source Host           : 47.242.231.12:3306
- Source Schema         : rainwindow
-
- Target Server Type    : MySQL
- Target Server Version : 50740
- File Encoding         : 65001
-
- Date: 11/05/2025 19:58:47
-*/
-
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
